@@ -137,3 +137,11 @@ Use short but clear commit messages, like:
 
 Don’t forget to git push after committing, or your changes won’t show on GitHub!
 
+# Only ONCE per project folder
+git init
+gh repo create memory --public --source=. --remote=origin --push
+
+# Every time you make changes
+git add .
+git commit -m "describe what you changed"
+git push
