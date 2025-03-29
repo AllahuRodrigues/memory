@@ -1,4 +1,4 @@
-# 🧠 My Git & GitHub Learning Notes (like I’m 9 years old)
+# 🧠 My Git & GitHub Learning Notes (Junior Developer)
 
 This is my personal notebook to remember how Git and GitHub work!  
 I’m learning it step by step and keeping all the important commands here 💾
